@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Name": "John",
+      "Birthday": "8/3/1996  ",
+      "Salary": 50000,
+      "Status": "Single",
+      "Gender": "Male"
+    },
+    {
+      "id": "2",
+      "Name": "Cena",
+      "Birthday": "9/11/2002  ",
+      "Salary": 50002,
+      "Status": "Married",
+      "Gender": "Male"
+    },
+    {
+      "id": "3",
+      "Name": "HHH",
+      "Birthday": "5/5/1996  ",
+      "Salary": 5000000,
+      "Status": "Single",
+      "Gender": "Female"
+    },
+    {
+      "id": "4",
+      "Name": "Jenifer",
+      "Birthday": "8/3/1996  ",
+      "Salary": 5000000,
+      "Status": "Married",
+      "Gender": "Female"
+    },
+    {
+      "name": "Fazain",
+      "Birthday": "7/2/1998",
+      "Salary": 550000,
+      "Status": "Single",
+      "Gender": "Male",
+      "id": "3t_lkEy"
+    }
+  ]
+}
